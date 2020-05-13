@@ -1,2 +1,2 @@
 # node-weather-site
-POC for Advanced node.js integrated with express
+POC for Advanced node.js integrated with express.
